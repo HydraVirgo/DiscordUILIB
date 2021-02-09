@@ -1,3 +1,5 @@
+--check the bottom
+
 local DiscordLib = {}
 local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
@@ -3244,4 +3246,3 @@ function DiscordLib:Window(text)
 	end
 	return ServerHold
 end
-return DiscordLib
